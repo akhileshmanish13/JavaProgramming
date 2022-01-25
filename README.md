@@ -1,3 +1,5 @@
 ### JavaProgramming
-##Java Basics
-##Implemetation of Data Structures and Algorithms
+```
+1. Java Basics
+2. Implemetation of Data Structures and Algorithms
+```

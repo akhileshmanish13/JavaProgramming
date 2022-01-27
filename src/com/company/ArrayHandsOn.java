@@ -27,6 +27,7 @@ public class ArrayHandsOn {
         System.out.println("Largest number in Number[] is : "+ max);
         System.out.println("Smallest number in Number[] is : "+ min);
  */
+/*
 //=================================================================================================================
 //2.  Find a Number in array(Linear Search)
         System.out.print("Enter The number to be searched: ");
@@ -35,6 +36,20 @@ public class ArrayHandsOn {
             if(number[i] == x) {
                 System.out.println(x + " is at index " + i);
             }
+        }
+ */
+//==================================================================================================================
+// 3. Check Whether the array is in ascending order or not
+        boolean isAscend = true;
+        for(int i = 0 ; i < number.length - 1; i++) {
+            if (number[i] > number[i + 1]) {
+                isAscend = false;
+            }
+        }
+        if (isAscend) {
+            System.out.println("Number[] array is sorted in ascending order");
+        } else {
+            System.out.println("Number[] array is not sorted in ascending order");
         }
     }
 }

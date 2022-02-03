@@ -25,3 +25,5 @@ public class OOPS_Constructor {
         p2.printColor();
     }
 }
+// Java has no Destructor.
+// Instead, Java has an efficient  garbage collector that deallocates memory automatically.

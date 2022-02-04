@@ -1,7 +1,5 @@
 package com.company;
 
-import java.util.*;
-
 /*
 Polymorphism is the ability to present the same interface for differing underlying forms (data types).
 With polymorphism, each of these classes will have different underlying data.

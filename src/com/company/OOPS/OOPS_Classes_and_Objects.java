@@ -1,4 +1,4 @@
-package com.company;
+package com.company.OOPS;
 /*
 Class --> is a user-defined data type which defines its properties and its functions.
 Class is the only logical representation of the data.

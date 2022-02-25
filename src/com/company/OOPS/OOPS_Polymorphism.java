@@ -1,4 +1,4 @@
-package com.company;
+package com.company.OOPS;
 
 /*
 Polymorphism is the ability to present the same interface for differing underlying forms (data types).

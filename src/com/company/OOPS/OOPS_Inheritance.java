@@ -1,6 +1,4 @@
-package com.company;
-
-import org.w3c.dom.ls.LSOutput;
+package com.company.OOPS;
 
 class Shape{
     String color;

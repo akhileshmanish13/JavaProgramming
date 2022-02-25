@@ -1,5 +1,4 @@
-package com.company;
-import java.util.*;
+package com.company.OOPS;
 
 class Vehicle{
     public String Type = "4-Wheeler";                   // 'public' keyword can be by access all the classes

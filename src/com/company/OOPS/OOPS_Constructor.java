@@ -1,4 +1,4 @@
-package com.company;
+package com.company.OOPS;
 class Pen{
     String color;
     public void printColor(){

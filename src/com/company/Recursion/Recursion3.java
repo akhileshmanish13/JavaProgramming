@@ -16,10 +16,10 @@ public class Recursion3 {
         int arr2[] = {1, 3, 3, 4, 5};
         int arr3[] = {1, 2 ,3 ,4 ,5};
         if(isSorted(arr3,0)){
-            System.out.println("Soreted order");
+            System.out.println("Sorted order");
         }
         else{
-            System.out.println("Not in sotred order");
+            System.out.println("Not in sorted order");
         }
     }
 }
